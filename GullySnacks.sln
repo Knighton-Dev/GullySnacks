@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GullySnacks.Web", "GullySnacks.Web\GullySnacks.Web.csproj", "{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Debug|x64.Build.0 = Debug|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Debug|x86.Build.0 = Debug|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Release|x64.ActiveCfg = Release|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Release|x64.Build.0 = Release|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Release|x86.ActiveCfg = Release|Any CPU
+		{DF33CB52-00F9-44D8-9F10-0D7125A7D19F}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D85B9DAA-3B70-4307-A5E1-B79C47D30751}
+	EndGlobalSection
+EndGlobal
